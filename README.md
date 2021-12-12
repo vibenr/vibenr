@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Blockchain.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vaibhav-believer](https://github.com/vibenr)
+- 👨‍💻 All of my projects are available at [Github Handle](https://github.com/vibenr)
 
 - 💬 Ask me about **DSA,MERN**
 
