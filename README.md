@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://dev.to/vaibhavbeliever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vaibhavbeliever" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vaibhav-chauhan-9a70871b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-chauhan-9a70871b9" height="30" width="40" /></a>
-<a href="https://instagram.com/_vaibhav7877_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vaibhav7877_" height="30" width="40" /></a>
+<a href="https://instagram.com/_vaibhav_7877_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vaibhav7877_" height="30" width="40" /></a>
 <a href="https://hashnode.com/@vaibhavchauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vaibhavchauhan" height="30" width="40" /></a>
 </p>
 
