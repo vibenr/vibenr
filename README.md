@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Dynamic Website of a startup named as Technoithub with tech stack of MERN.**
+- 🔭 I’m currently working on **Blockchain Technology Based Project**
 
 - 🌱 I’m currently learning **NODEJS, BLOCKCHAIN, WEB 3.O.**
 
