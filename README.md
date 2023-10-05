@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibenr" alt="vibenr" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/vibs_78" target="blank"><img src="https://img.shields.io/twitter/follow/vibs_78?logo=twitter&style=for-the-badge" alt="vibs_78" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vib_78" target="blank"><img src="https://img.shields.io/twitter/follow/vib_78?logo=twitter&style=for-the-badge" alt="vib_78" /></a> </p>
 
 - 🌱 I’m currently learning **Cloud fundamentals with GCP**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vibs_78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vibs_78" height="30" width="40" /></a>
+<a href="https://twitter.com/vib_78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vib_78" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vaibhav-chauhan-9a70871b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-chauhan-9a70871b9/" height="30" width="40" /></a>
 <a href="https://kaggle.com/vibenr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vibenr" height="30" width="40" /></a>
 <a href="https://instagram.com/__vaibhav.chauhan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__vaibhav.chauhan_" height="30" width="40" /></a>
