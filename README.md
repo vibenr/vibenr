@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Chauhan</h1>
-<h3 align="center">A Fullstack developer and problem-solver</h3>
+<h4 align="left">About Me:</h4><p>I am Fullstack Developer from India. I am a Highly motivated final-year IT undergraduate with a strong passion for problem-solving and a keen aspiration to excel as a software developer. Additionally, I have a track record of successfully leading teams.</p>
 
 ![Vaibhav Chauhan](https://github.com/vibenr/vibenr/blob/main/Vaibhav%20Chauhan%20(3).png)
 
