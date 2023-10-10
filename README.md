@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Chauhan</h1>
 <h3 align="center">A Fullstack developer and problem-solver</h3>
 
+![Vaibhav Chauhan](https://github.com/vibenr/vibenr/blob/main/Vaibhav%20Chauhan%20(3).png)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibenr" alt="vibenr" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vib_78" target="blank"><img src="https://img.shields.io/twitter/follow/vib_78?logo=twitter&style=for-the-badge" alt="vib_78" /></a> </p>
