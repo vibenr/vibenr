@@ -35,6 +35,7 @@
 
 <div align = "center" width = "100%"> 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vibenr&layout=donut" alt = "top-languages" width = "40%" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vibenr&theme=dark)](https://git.io/streak-stats)
 <img src = "https://github-readme-stats.vercel.app/api?username=vibenr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt = "github stats" align = "right" />
 </div>
 
