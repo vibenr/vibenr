@@ -1,43 +1,53 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Chauhan</h1>
-<h4 align="left">About Me:</h4><p>I am Fullstack Developer from India. I am a Highly motivated final-year IT undergraduate with a strong passion for problem-solving and a keen aspiration to excel as a software developer. Additionally, I have a track record of successfully leading teams.</p>
+# Hey, I'm Vaibhav Chauhan
 
-![Vaibhav Chauhan](https://github.com/vibenr/vibenr/blob/main/Vaibhav%20Chauhan%20(3).png)
+### Software Engineer | Backend Engineering | Platform & Data Systems
 
+I build software that scales, systems that perform, and pipelines that make data useful.
 
-- 🌱 I’m currently learning **Open Source & Cloud Fundamentals**
+I'm a Software Development Engineer working across **Backend, Platform, and Data Engineering**. I enjoy designing reliable distributed systems, optimizing performance, building data-intensive applications, and solving engineering problems with real-world impact.
 
-- 👯 I’m looking to collaborate on **Innovative Ideas**
+I like going beyond making things work — understanding why they work, making them better, and building them to last.
 
-- ✨ Checkout my portfolio [https://vibenr.vercel.app](https://vibenr.vercel.app)
+### What I Work On
 
-- 📝 I regularly write articles on [https://vibenr.hashnode.dev](https://vibenr.hashnode.dev)
+- Building backend services and scalable applications using **Java, Spring Boot, and Python**.
+- Designing microservices, distributed systems, and performance-critical applications.
+- Building and optimizing data pipelines using **Apache Airflow, SQL, and AWS**.
+- Working with databases, caching systems, messaging queues, and event-driven architectures.
+- Exploring system design, database internals, and software engineering best practices.
 
-- 💬 Ask me about **react.js, node.js, DSA, ML, etc**
+### Tech Stack
 
-- 📫 Reach out to me **sendonvaibhav.chauhan@gmail.com**
+**Languages & Backend**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16mGKvXjCFjWYZgvYVB7WQBfOJE5PyC-G/view?usp=sharing](https://drive.google.com/file/d/16mGKvXjCFjWYZgvYVB7WQBfOJE5PyC-G/view?usp=sharing)
-  
+Java · Python · SQL · Spring Boot · Node.js · Hibernate · Vert.x
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vib_78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vib_78" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vaibhav-chauhan-9a70871b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-chauhan-9a70871b9/" height="30" width="40" /></a>
-<a href="https://kaggle.com/vibenr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vibenr" height="30" width="40" /></a>
-<a href="https://instagram.com/__vaibhav.chauhan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__vaibhav.chauhan_" height="30" width="40" /></a>
-<a href="https://hashnode.com/@vibenr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vibenr" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vaibhav_chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhav_chauhan" height="30" width="40" /></a>
-</p>
+**Data Engineering & Databases**
 
-<h3 align="left">Tools & Technologies:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Apache Airflow · Pandas · MySQL · MongoDB · DynamoDB · Redis
 
-<div align = "center" width = "100%" > 
+**Infrastructure & Tools**
 
+AWS · Docker · Git · Jenkins · SQS · S3 · Postman
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibenr)](https://github.com/anuraghazra/github-readme-stats)
+**Frontend**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vibenr&show_icons=true&count_private=true)  
-</div>
+React.js · JavaScript · Next.js · HTML · CSS
 
+### A Little Beyond Engineering
 
+- Exploring ideas and building products that solve meaningful problems.
+- Interested in system design, engineering fundamentals, and understanding things under the hood.
+- Occasionally writing about technology, engineering, and everything in between.
+
+### Find Me Around the Web
+
+- Portfolio: [vibenr.vercel.app](https://vibenr.vercel.app)
+- LinkedIn: [Vaibhav Chauhan](https://www.linkedin.com/in/vaibhav-chauhan-2410vib)
+- LeetCode: [vaibhav_chauhan](https://leetcode.com/u/vaibhav_chauhan/)
+- Writing: [vibenr.hashnode.dev](https://vibenr.hashnode.dev)
+- Email: [sendonvaibhav.chauhan@gmail.com](mailto:sendonvaibhav.chauhan@gmail.com)
+
+---
+
+*Building things, breaking assumptions, understanding systems, and getting a little better every day.*
